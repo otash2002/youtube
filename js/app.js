@@ -133,6 +133,7 @@ function next(){
 function quizOver(){
   quizBox.classList.add('hide');
   // show result 
+  // show result 
   resultBox.classList.remove('hide');
   quizResult();
 

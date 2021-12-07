@@ -178,6 +178,7 @@ function startQuiz() {
 
   setvailableQuestions();
   // and we will call getNewQuestion function 
+  //adn wee learn
   getNewQuestion();
 
   answersIndicator();
